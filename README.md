@@ -4,7 +4,7 @@ Repositório do projeto dos alunos Guilherme Caetano, Henrique Silva e Margarida
 
 Sintetizador touch-sensitive com visualizador de som. 
 
-Material ideal para uso:
+##Material ideal para uso:
 -PC
 -Webcam
 -Superfície transparente ou esfumaçada colocada por cima da webcam (a nossa versão usa uma bola de vidro e uma base em k-line)
