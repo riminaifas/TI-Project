@@ -26,7 +26,7 @@ Sintetizador touch-sensitive com visualizador de som.
 * -17 jumpers
 
 
-Com os materiais enunciados, deverá montar como no esquema disponível no repositório [Schematic Arduino.jpg]
+Com os materiais enunciados, deverá montar como no esquema disponível no repositório [[Schematic Arduino.jpg](https://github.com/riminaifas/TI-Project/blob/main/Schematic%20Arduino.jpeg)]
 
 # Funcionalidades
 
