@@ -36,5 +36,5 @@ Com os materiais enunciados, deverá montar como no esquema disponível no repos
 
   -Botões 3,4 e 5 ativam, respetivamente, efeitos de Reverb, Delay e Bitcrush e os consequentes efeitos visuais no visualizador;
 
-  -Joystick controla com o eixo X a frequência do som e com o eixo Y o impacto das modificações por toque 
+  -Joystick controla com o eixo X a frequência do som e com o eixo Y o impacto das modificações por toque;
 
